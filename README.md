@@ -6,10 +6,10 @@ Phone Police is an Android app that allows users to turn on the flashlight and f
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](s1.png)
 *Description of Screenshot 1*
 
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2](s2.png)
 *Description of Screenshot 2*
 
 ## Features
