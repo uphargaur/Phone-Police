@@ -1,16 +1,16 @@
 # Phone Police
 
-![Phone Police Logo](screenshots/logo.png)
+![Phone Police Logo](logo.png)
 
 Phone Police is an Android app that allows users to turn on the flashlight and fetch the location of their mobile devices using GPS location. The app utilizes RecyclerView for displaying a list of functionalities, Lottie library for animations, and Firebase for data storage and retrieval.
 
 ## Screenshots
 
 ![Screenshot 1](s1.png)
-*Description of Screenshot 1*
+*Home Screen of the app*
 
 ![Screenshot 2](s2.png)
-*Description of Screenshot 2*
+*Features of the app *
 
 ## Features
 
